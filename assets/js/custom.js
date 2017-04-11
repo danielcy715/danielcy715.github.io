@@ -38,7 +38,7 @@
 			'assets/images/lake-tahoe.jpg',
 			'assets/images/Nanjing.jpg',
 			'assets/images/utexas.jpg',
-			'assets/images/Nature.jpg'
+			'assets/images/gatech.jpg'
 		], {duration: 3000, fade: 750});
 
 		/* ---------------------------------------------- /*
